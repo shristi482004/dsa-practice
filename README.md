@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/shristi482004/dsa-practice/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/shristi482004/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shristi482004/dsa-practice/tree/master/2574-left-and-right-sum-differences) |
 | [3467-transform-array-by-parity](https://github.com/shristi482004/dsa-practice/tree/master/3467-transform-array-by-parity) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/shristi482004/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shristi482004/dsa-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/shristi482004/dsa-practice/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
