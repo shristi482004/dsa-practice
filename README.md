@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/shristi482004/dsa-practice/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/shristi482004/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shristi482004/dsa-practice/tree/master/2574-left-and-right-sum-differences) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shristi482004/dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3467-transform-array-by-parity](https://github.com/shristi482004/dsa-practice/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/shristi482004/dsa-practice/tree/master/3701-compute-alternating-sum) |
 ## Simulation
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shristi482004/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shristi482004/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0771-jewels-and-stones](https://github.com/shristi482004/dsa-practice/tree/master/0771-jewels-and-stones) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shristi482004/dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shristi482004/dsa-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2487-remove-nodes-from-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shristi482004/dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
