@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shristi482004/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shristi482004/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0771-jewels-and-stones](https://github.com/shristi482004/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shristi482004/dsa-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -54,9 +55,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shristi482004/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shristi482004/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shristi482004/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shristi482004/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
