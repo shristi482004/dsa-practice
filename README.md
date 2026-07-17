@@ -130,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shristi482004/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/shristi482004/dsa-practice/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
