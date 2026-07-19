@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shristi482004/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0817-linked-list-components](https://github.com/shristi482004/dsa-practice/tree/master/0817-linked-list-components) |
 | [1331-rank-transform-of-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/shristi482004/dsa-practice/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/shristi482004/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shristi482004/dsa-practice/tree/master/2574-left-and-right-sum-differences) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shristi482004/dsa-practice/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/shristi482004/dsa-practice/tree/master/0148-sort-list) |
 | [1331-rank-transform-of-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/shristi482004/dsa-practice/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/shristi482004/dsa-practice/tree/master/1148-article-views-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
