@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shristi482004/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0633-sum-of-square-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 | [2413-smallest-even-multiple](https://github.com/shristi482004/dsa-practice/tree/master/2413-smallest-even-multiple) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shristi482004/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/shristi482004/dsa-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shristi482004/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shristi482004/dsa-practice/tree/master/0322-coin-change) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shristi482004/dsa-practice/tree/master/0322-coin-change) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shristi482004/dsa-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
