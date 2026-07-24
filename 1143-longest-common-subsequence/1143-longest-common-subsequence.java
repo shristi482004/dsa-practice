@@ -1,5 +1,6 @@
 class Solution {
     public int longestCommonSubsequence(String x, String y) {
+        StringBuilder sb=new StringBuilder("");
         int n=x.length();
         int m=y.length();
         int[][] t=new int[n+1][m+1];
@@ -21,6 +22,25 @@ class Solution {
                 t[i][j]=Math.max(t[i-1][j],t[i][j-1]);
             }
         }
+        int i=n;
+        int j=m;
+        while(i>0 && j>0)
+        {
+            if(x.charAt(i-1) == y.charAt(j-1))
+            {
+                sb.append(x.charAt(i-1));
+                i--;
+                j--;
+            }
+            else
+            {
+                if(t[i-1][j]>t[i][j-1])
+                i--;
+                else
+                j--;
+            }
+        }
+        System.out.println(sb.reverse().toString());
         return t[n][m];
     }
 }
