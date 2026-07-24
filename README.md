@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/shristi482004/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/shristi482004/dsa-practice/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/shristi482004/dsa-practice/tree/master/1143-longest-common-subsequence) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shristi482004/dsa-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shristi482004/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shristi482004/dsa-practice/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/shristi482004/dsa-practice/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/shristi482004/dsa-practice/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
