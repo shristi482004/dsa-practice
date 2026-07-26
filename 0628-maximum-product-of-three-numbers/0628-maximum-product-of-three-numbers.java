@@ -1,9 +1,40 @@
 class Solution {
     public int maximumProduct(int[] nums) {
-        Arrays.sort(nums);
-        int first2=nums[0]*nums[1]*nums[nums.length-1];
-        int last3=nums[nums.length-3]*nums[nums.length-2]*nums[nums.length-1];
-        
-        return Math.max(first2,last3);
+        int max=Integer.MIN_VALUE;
+        int secmax=Integer.MIN_VALUE;
+        int thirdmax=Integer.MIN_VALUE;
+        int min=Integer.MAX_VALUE;
+        int secmin=Integer.MAX_VALUE;
+        for(int i=0;i<nums.length;i++)
+        {
+            int d=nums[i];
+            if(d>max)
+            {
+                thirdmax=secmax;
+                secmax=max;
+                max=d;
+            }
+            else if(d>secmax && d<=max)
+            {
+                thirdmax=secmax;
+                secmax=d;
+            }
+            else if(d>thirdmax && d<=secmax && d<=max)
+            {
+                thirdmax=d;
+               
+            }
+            if(d<min)
+            {
+                secmin=min;
+                min=d;
+            }
+            else if(d>=min && d<secmin)
+            {
+                secmin=d;
+            }
+
+        }
+        return Math.max(min*secmin*max,max*secmax*thirdmax);
     }
 }
