@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shristi482004/dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3467-transform-array-by-parity](https://github.com/shristi482004/dsa-practice/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/shristi482004/dsa-practice/tree/master/3701-compute-alternating-sum) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shristi482004/dsa-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Simulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/shristi482004/dsa-practice/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/shristi482004/dsa-practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shristi482004/dsa-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3536-maximum-product-of-two-digits](https://github.com/shristi482004/dsa-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shristi482004/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shristi482004/dsa-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Number Theory
 |  |
 | ------- |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shristi482004/dsa-practice/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shristi482004/dsa-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 <!---LeetCode Topics End-->
