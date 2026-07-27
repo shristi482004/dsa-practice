@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/shristi482004/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/shristi482004/dsa-practice/tree/master/2906-construct-product-matrix) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shristi482004/dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/shristi482004/dsa-practice/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3467-transform-array-by-parity](https://github.com/shristi482004/dsa-practice/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/shristi482004/dsa-practice/tree/master/3701-compute-alternating-sum) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shristi482004/dsa-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/shristi482004/dsa-practice/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3467-transform-array-by-parity](https://github.com/shristi482004/dsa-practice/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/shristi482004/dsa-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shristi482004/dsa-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -197,5 +199,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/shristi482004/dsa-practice/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shristi482004/dsa-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 <!---LeetCode Topics End-->
