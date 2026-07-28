@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shristi482004/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shristi482004/dsa-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shristi482004/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/shristi482004/dsa-practice/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0817-linked-list-components](https://github.com/shristi482004/dsa-practice/tree/master/0817-linked-list-components) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/shristi482004/dsa-practice/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/shristi482004/dsa-practice/tree/master/0148-sort-list) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shristi482004/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shristi482004/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/shristi482004/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/shristi482004/dsa-practice/tree/master/0817-linked-list-components) |
 | [1331-rank-transform-of-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
