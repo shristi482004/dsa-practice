@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/shristi482004/dsa-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shristi482004/dsa-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/shristi482004/dsa-practice/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shristi482004/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/shristi482004/dsa-practice/tree/master/1092-shortest-common-supersequence) |
 | [1108-defanging-an-ip-address](https://github.com/shristi482004/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/shristi482004/dsa-practice/tree/master/1143-longest-common-subsequence) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shristi482004/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shristi482004/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shristi482004/dsa-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/shristi482004/dsa-practice/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shristi482004/dsa-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
