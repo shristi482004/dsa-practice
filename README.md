@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/shristi482004/dsa-practice/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/shristi482004/dsa-practice/tree/master/1929-concatenation-of-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/shristi482004/dsa-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/shristi482004/dsa-practice/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shristi482004/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/shristi482004/dsa-practice/tree/master/2906-construct-product-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/shristi482004/dsa-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/shristi482004/dsa-practice/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3467-transform-array-by-parity](https://github.com/shristi482004/dsa-practice/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shristi482004/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/shristi482004/dsa-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/shristi482004/dsa-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/shristi482004/dsa-practice/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shristi482004/dsa-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Game Theory
