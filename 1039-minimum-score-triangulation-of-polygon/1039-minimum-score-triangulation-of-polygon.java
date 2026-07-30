@@ -1,30 +1,45 @@
 class Solution {
-    static int[][] t=new int[51][51];
-    static int mcm(int arr[],int i,int j) {
-        // code here
+    static int[][] t=null;
+    public int solve(int[] values, int i, int j) 
+    {
         if(i>=j)
         return 0;
+
         if(t[i][j]!=-1)
-        {
-            return t[i][j];
-        }
-        long min=Integer.MAX_VALUE;
+        return t[i][j];
+        int min=Integer.MAX_VALUE;
         for(int k=i;k<=j-1;k++)
         {
-            long tempans=mcm(arr,i,k)+mcm(arr,k+1,j)+arr[i-1]*arr[k]*arr[j];
+            int left=0;
+            int right=0;
+            if(t[i][k]!=-1)
+            left=t[i][k];
+            else
+            left=solve(values,i,k);
+
+            if(t[k+1][j]!=-1)
+            right=t[k+1][j];
+            else
+            right=solve(values,k+1,j);
+
+            int tempans=left+right+values[i-1]*values[k]*values[j];
+
             min=Math.min(min,tempans);
+            t[i][j]=min;
         }
-        t[i][j]=(int)min;
+        
+
         return t[i][j];
     }
-    public int minScoreTriangulation(int[] arr) {
-        for(int a=0;a<t.length;a++)
+    public int minScoreTriangulation(int[] values) {
+        t=new int[values.length+1][values.length+1];
+        for(int i=0;i<t.length;i++)
         {
-            for(int b=0;b<t[0].length;b++)
+            for(int j=0;j<t[0].length;j++)
             {
-                t[a][b]=-1;
+                t[i][j]=-1;
             }
         }
-        return mcm(arr,1,arr.length-1);
+        return solve(values,1, values.length-1);
     }
 }
