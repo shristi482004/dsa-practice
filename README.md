@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/shristi482004/dsa-practice/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/shristi482004/dsa-practice/tree/master/1929-concatenation-of-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/shristi482004/dsa-practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shristi482004/dsa-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/shristi482004/dsa-practice/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shristi482004/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/shristi482004/dsa-practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shristi482004/dsa-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/shristi482004/dsa-practice/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3467-transform-array-by-parity](https://github.com/shristi482004/dsa-practice/tree/master/3467-transform-array-by-parity) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shristi482004/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/shristi482004/dsa-practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shristi482004/dsa-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/shristi482004/dsa-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shristi482004/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
