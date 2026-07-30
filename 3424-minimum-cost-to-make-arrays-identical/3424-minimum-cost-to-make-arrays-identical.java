@@ -1,17 +1,17 @@
 class Solution {
     public long minCost(int[] arr, int[] brr, long k) {
-        long cost1=0;
-        for(int i=0;i<arr.length;i++)
+        long poss1=0;
+        long poss2=0;
+        for( int i=0;i<arr.length;i++)
         {
-            cost1+=Math.abs(arr[i]-brr[i]);
+           poss1+=Math.abs(arr[i]-brr[i]);
         }
         Arrays.sort(arr);
         Arrays.sort(brr);
-        long cost=0;
-        for(int i=0;i<arr.length;i++)
+        for( int i=0;i<arr.length;i++)
         {
-            cost+=Math.abs(arr[i]-brr[i]);
+             poss2+=Math.abs(arr[i]-brr[i]);
         }
-        return Math.min(cost1,cost+k);
+        return Math.min(poss1,poss2+k);
     }
 }
