@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shristi482004/dsa-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/shristi482004/dsa-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shristi482004/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shristi482004/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shristi482004/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shristi482004/dsa-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/shristi482004/dsa-practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shristi482004/dsa-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shristi482004/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/shristi482004/dsa-practice/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3467-transform-array-by-parity](https://github.com/shristi482004/dsa-practice/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shristi482004/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shristi482004/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/shristi482004/dsa-practice/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shristi482004/dsa-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/shristi482004/dsa-practice/tree/master/0771-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/shristi482004/dsa-practice/tree/master/0817-linked-list-components) |
 | [1331-rank-transform-of-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shristi482004/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shristi482004/dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shristi482004/dsa-practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Matrix
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shristi482004/dsa-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/shristi482004/dsa-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shristi482004/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shristi482004/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/shristi482004/dsa-practice/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shristi482004/dsa-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Game Theory
