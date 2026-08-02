@@ -27,6 +27,6 @@ class Solution {
 
         }
         
-        return alice>bob;
+        return true;
     }
 }
