@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/shristi482004/dsa-practice/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/shristi482004/dsa-practice/tree/master/0887-super-egg-drop) |
 | [2413-smallest-even-multiple](https://github.com/shristi482004/dsa-practice/tree/master/2413-smallest-even-multiple) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shristi482004/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shristi482004/dsa-practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0887-super-egg-drop](https://github.com/shristi482004/dsa-practice/tree/master/0887-super-egg-drop) |
 ## Enumeration
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shristi482004/dsa-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shristi482004/dsa-practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/shristi482004/dsa-practice/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/shristi482004/dsa-practice/tree/master/0887-super-egg-drop) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shristi482004/dsa-practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/shristi482004/dsa-practice/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/shristi482004/dsa-practice/tree/master/1092-shortest-common-supersequence) |
