@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/shristi482004/dsa-practice/tree/master/0008-string-to-integer-atoi) |
 | [0087-scramble-string](https://github.com/shristi482004/dsa-practice/tree/master/0087-scramble-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/shristi482004/dsa-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shristi482004/dsa-practice/tree/master/0583-delete-operation-for-two-strings) |
