@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/shristi482004/dsa-practice/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/shristi482004/dsa-practice/tree/master/0887-super-egg-drop) |
+| [1510-stone-game-iv](https://github.com/shristi482004/dsa-practice/tree/master/1510-stone-game-iv) |
 | [2413-smallest-even-multiple](https://github.com/shristi482004/dsa-practice/tree/master/2413-smallest-even-multiple) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shristi482004/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/shristi482004/dsa-practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shristi482004/dsa-practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shristi482004/dsa-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1510-stone-game-iv](https://github.com/shristi482004/dsa-practice/tree/master/1510-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shristi482004/dsa-practice/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/shristi482004/dsa-practice/tree/master/1510-stone-game-iv) |
 ## Counting Sort
 |  |
 | ------- |
@@ -262,4 +265,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shristi482004/dsa-practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shristi482004/dsa-practice/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shristi482004/dsa-practice/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shristi482004/dsa-practice/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shristi482004/dsa-practice/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
