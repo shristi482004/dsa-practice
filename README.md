@@ -292,4 +292,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/shristi482004/dsa-practice/tree/master/0137-single-number-ii) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/shristi482004/dsa-practice/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
