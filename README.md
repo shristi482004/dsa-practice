@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shristi482004/dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/shristi482004/dsa-practice/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3467-transform-array-by-parity](https://github.com/shristi482004/dsa-practice/tree/master/3467-transform-array-by-parity) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/shristi482004/dsa-practice/tree/master/3701-compute-alternating-sum) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shristi482004/dsa-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Simulation
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/shristi482004/dsa-practice/tree/master/1672-richest-customer-wealth) |
 | [2906-construct-product-matrix](https://github.com/shristi482004/dsa-practice/tree/master/2906-construct-product-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/shristi482004/dsa-practice/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
@@ -302,11 +305,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
