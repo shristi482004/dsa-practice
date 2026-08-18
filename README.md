@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shristi482004/dsa-practice/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
 ## Memoization
 |  |
 | ------- |
@@ -293,4 +294,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/shristi482004/dsa-practice/tree/master/0137-single-number-ii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/shristi482004/dsa-practice/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
