@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/shristi482004/dsa-practice/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shristi482004/dsa-practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0817-linked-list-components](https://github.com/shristi482004/dsa-practice/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/shristi482004/dsa-practice/tree/master/0877-stone-game) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
 | [1672-richest-customer-wealth](https://github.com/shristi482004/dsa-practice/tree/master/1672-richest-customer-wealth) |
 | [2906-construct-product-matrix](https://github.com/shristi482004/dsa-practice/tree/master/2906-construct-product-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/shristi482004/dsa-practice/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
@@ -305,12 +308,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
