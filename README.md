@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/shristi482004/dsa-practice/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shristi482004/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0130-surrounded-regions](https://github.com/shristi482004/dsa-practice/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/shristi482004/dsa-practice/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/shristi482004/dsa-practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shristi482004/dsa-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/shristi482004/dsa-practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shristi482004/dsa-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/shristi482004/dsa-practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/shristi482004/dsa-practice/tree/master/0542-01-matrix) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shristi482004/dsa-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shristi482004/dsa-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
