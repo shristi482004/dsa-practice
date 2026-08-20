@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shristi482004/dsa-practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/shristi482004/dsa-practice/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/shristi482004/dsa-practice/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/shristi482004/dsa-practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shristi482004/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1765-map-of-highest-peak](https://github.com/shristi482004/dsa-practice/tree/master/1765-map-of-highest-peak) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shristi482004/dsa-practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/shristi482004/dsa-practice/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/shristi482004/dsa-practice/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/shristi482004/dsa-practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shristi482004/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/shristi482004/dsa-practice/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/shristi482004/dsa-practice/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/shristi482004/dsa-practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shristi482004/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -351,12 +354,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shristi482004/dsa-practice/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/shristi482004/dsa-practice/tree/master/0886-possible-bipartition) |
 ## Graph Coloring
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/shristi482004/dsa-practice/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/shristi482004/dsa-practice/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/shristi482004/dsa-practice/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/shristi482004/dsa-practice/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
