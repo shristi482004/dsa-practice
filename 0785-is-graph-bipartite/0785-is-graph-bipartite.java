@@ -1,23 +1,19 @@
 class Solution {
-    public boolean check(ArrayList<ArrayList<Integer>> adj,int[] color, int start)
+    public boolean check(ArrayList<ArrayList<Integer>> adj,int[] color, int node,int col)
     {
-    Queue<Integer> q=new LinkedList<>();
-    q.add(start);
-    while(!q.isEmpty())
-    {
-        int node=q.poll();
+    color[node]=col;
 
-        for(int neighbour:adj.get(node))
+  for(int neighbour:adj.get(node))
         {
             if(color[neighbour]==-1)
             {
-                color[neighbour]=1-color[node];
-                q.add(neighbour);
+                if(check(adj,color,neighbour,1-col)==false)
+                return false;
             }
-            else if(color[neighbour]==color[node])
+            else if(color[neighbour]==col)
             return false;
-        }
-    }
+      }
+    
     return true;
     }
     public boolean isBipartite(int[][] graph) {
@@ -39,7 +35,7 @@ class Solution {
         {
             if(color[i]==-1)
             {
-                if(check(adj,color,i)==false)
+                if(check(adj,color,i,0)==false)
                 return false;
             }
         }
