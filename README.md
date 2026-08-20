@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/shristi482004/dsa-practice/tree/master/1020-number-of-enclaves) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shristi482004/dsa-practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/shristi482004/dsa-practice/tree/master/1049-last-stone-weight-ii) |
+| [1254-number-of-closed-islands](https://github.com/shristi482004/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/shristi482004/dsa-practice/tree/master/1672-richest-customer-wealth) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shristi482004/dsa-practice/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/shristi482004/dsa-practice/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/shristi482004/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/shristi482004/dsa-practice/tree/master/1672-richest-customer-wealth) |
 | [1765-map-of-highest-peak](https://github.com/shristi482004/dsa-practice/tree/master/1765-map-of-highest-peak) |
 | [2906-construct-product-matrix](https://github.com/shristi482004/dsa-practice/tree/master/2906-construct-product-matrix) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shristi482004/dsa-practice/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/shristi482004/dsa-practice/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/shristi482004/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1765-map-of-highest-peak](https://github.com/shristi482004/dsa-practice/tree/master/1765-map-of-highest-peak) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shristi482004/dsa-practice/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/shristi482004/dsa-practice/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/shristi482004/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/shristi482004/dsa-practice/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/shristi482004/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
