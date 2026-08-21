@@ -1,62 +1,45 @@
-class Pair{
-    int first;
-    int second;
-    public Pair(int first,int second)
-    {
-        this.first=first;
-        this.second=second;
-    }
-}
 class Solution {
-    public long bfs(int row, int col,int[][] grid,boolean[][] vis) {
-        long sum=grid[row][col];
-        Queue<Pair> q=new LinkedList<>();
-        q.add(new Pair(row,col));
+    public long dfs(int row,int col,boolean[][] vis,int[][] grid)
+    {
+        long area=grid[row][col];
         vis[row][col]=true;
         int n=grid.length;
         int m=grid[0].length;
-        while(!q.isEmpty())
-        {
-            int r=q.peek().first;
-            int c=q.peek().second;
-            q.remove();
-            int[] delro={-1,1,0,0};
-            int[] delco={0,0,-1,1};
-            for(int i=0;i<4;i++)
-            {
-                    int ro=r+delro[i];
-                    int co=c+delco[i];
+        int[] delro={-1,1,0,0};
+        int[] delco={0,0,1,-1};
 
-                    if(ro>=0 && ro<n && co>=0 && co<m
-                    && grid[ro][co]!=0 && !vis[ro][co])
-                    {
-                        sum+=grid[ro][co];
-                       vis[ro][co]=true; 
-                       q.add(new Pair(ro,co));
-                    }
-                
+        for(int i=0;i<4;i++)
+        {
+            int r=row+delro[i];
+            int c=col+delco[i];
+
+            if(r>=0 && r<n && c>=0 && c<m
+            && !vis[r][c] && grid[r][c]!=0)
+            {
+                area+=dfs(r,c,vis,grid);
             }
         }
-       return sum; 
+        return area;
     }
-    
+
+
     public int countIslands(int[][] grid, int k) {
         int n=grid.length;
         int m=grid[0].length;
-        boolean[][] vis=new boolean[n][m];
+        boolean [][] vis=new boolean[n][m];
         int count=0;
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
-                if(grid[i][j]!=0 && !vis[i][j])
+                if(!vis[i][j] && grid[i][j]!=0)
                 {
-                    long findsum=bfs(i,j,grid,vis);
-                    if(findsum%k==0)
+                    if(dfs(i,j,vis,grid)%k==0)
                     count++;
                 }
             }
         }
         return count;
+    
     }
 }
