@@ -1,15 +1,15 @@
 class Solution {
-    public boolean dfscycle(int node,boolean[] vis,boolean[] pathvis, ArrayList<ArrayList<Integer>> adj,boolean[] check) {
+    public boolean dfscycle(int node,boolean[] vis,boolean[] pathvis, int[][] edges,boolean[] check) {
         // code here
         vis[node]=true;
         pathvis[node]=true;
-        check[node]=false;
 
-        for(int neighbour:adj.get(node))
+
+        for(int neighbour:edges[node])
         {
             if(!vis[neighbour])
             {
-                if(dfscycle(neighbour,vis,pathvis,adj,check))
+                if(dfscycle(neighbour,vis,pathvis,edges,check))
                 return true;
             }
             else if(pathvis[neighbour])
@@ -30,29 +30,12 @@ class Solution {
         boolean[] vis=new boolean[V];
         boolean[] pathvis=new boolean[V];
         boolean[] check=new boolean[V];
-        ArrayList<ArrayList<Integer>> adj=new ArrayList<ArrayList<Integer>>();
-        ArrayList<Integer> safe=new ArrayList<>();
-        for(int i=0;i<V;i++)
-        {
-            adj.add(new ArrayList<Integer>());
-
-        }
-        for(int i=0;i<edges.length;i++)
-        {
-            for(int j=0;j<edges[i].length;j++)
-            {
-        
-            adj.get(i).add(edges[i][j]);
-            
-        }
-
-        }
-
+       List<Integer> safe=new ArrayList<>();
         for(int i=0;i<V;i++)
         {
             if(!vis[i])
             {
-             boolean hascycle=dfscycle(i,vis,pathvis,adj,check);
+             boolean hascycle=dfscycle(i,vis,pathvis,edges,check);
                 
             }
         }
