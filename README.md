@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/shristi482004/dsa-practice/tree/master/3701-compute-alternating-sum) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shristi482004/dsa-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [4015-weighted-sum-of-a-tree](https://github.com/shristi482004/dsa-practice/tree/master/4015-weighted-sum-of-a-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/shristi482004/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shristi482004/dsa-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [4015-weighted-sum-of-a-tree](https://github.com/shristi482004/dsa-practice/tree/master/4015-weighted-sum-of-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -431,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/shristi482004/dsa-practice/tree/master/0802-find-eventual-safe-states) |
+## Tree
+|  |
+| ------- |
+| [4015-weighted-sum-of-a-tree](https://github.com/shristi482004/dsa-practice/tree/master/4015-weighted-sum-of-a-tree) |
 <!---LeetCode Topics End-->
