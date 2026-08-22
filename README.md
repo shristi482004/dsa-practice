@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shristi482004/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shristi482004/dsa-practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shristi482004/dsa-practice/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shristi482004/dsa-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1765-map-of-highest-peak](https://github.com/shristi482004/dsa-practice/tree/master/1765-map-of-highest-peak) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/shristi482004/dsa-practice/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/shristi482004/dsa-practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shristi482004/dsa-practice/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shristi482004/dsa-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/shristi482004/dsa-practice/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/shristi482004/dsa-practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shristi482004/dsa-practice/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shristi482004/dsa-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/shristi482004/dsa-practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/shristi482004/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/shristi482004/dsa-practice/tree/master/0886-possible-bipartition) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shristi482004/dsa-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Coloring
 |  |
 | ------- |
