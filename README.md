@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/shristi482004/dsa-practice/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/shristi482004/dsa-practice/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/shristi482004/dsa-practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shristi482004/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/shristi482004/dsa-practice/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/shristi482004/dsa-practice/tree/master/0137-single-number-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shristi482004/dsa-practice/tree/master/0008-string-to-integer-atoi) |
+| [0079-word-search](https://github.com/shristi482004/dsa-practice/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/shristi482004/dsa-practice/tree/master/0087-scramble-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/shristi482004/dsa-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shristi482004/dsa-practice/tree/master/0583-delete-operation-for-two-strings) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/shristi482004/dsa-practice/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/shristi482004/dsa-practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/shristi482004/dsa-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/shristi482004/dsa-practice/tree/master/0542-01-matrix) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shristi482004/dsa-practice/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/shristi482004/dsa-practice/tree/master/0494-target-sum) |
 ## Breadth-First Search
 |  |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shristi482004/dsa-practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/shristi482004/dsa-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shristi482004/dsa-practice/tree/master/0207-course-schedule) |
