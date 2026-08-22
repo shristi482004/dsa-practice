@@ -1,52 +1,50 @@
 class Solution {
-    public void dfs(int[][] board,int row,int col,boolean[][] vis) {
+    public void dfs(int row,int col,boolean[][] vis,int[][] grid) {
         vis[row][col]=true;
-        int n=board.length;
-        int m=board[0].length;
+        grid[row][col]=0;
+        int n=grid.length;
+        int m=grid[0].length;
         int[] delro={-1,1,0,0};
         int[] delco={0,0,1,-1};
-
         for(int i=0;i<4;i++)
         {
-           int r=row+delro[i];
-           int c=col+delco[i];
+            int r=row+delro[i];
+            int c=col+delco[i];
 
-           if(r>=0 && r<n && c>=0 && c<m
-           && board[r][c]==1
-            &&!vis[r][c])
-           {
-            dfs(board,r,c,vis);
-           }
+            if(r>=0 && r<n && c>=0 && c<m
+            && !vis[r][c] && grid[r][c]==1)
+            {
+                dfs(r,c,vis,grid);
+            }
         }
     }
-    
-
-
-    public int numEnclaves(int[][] board) {
-        int n=board.length;
-        int m=board[0].length;
+    public int numEnclaves(int[][] grid) {
+        int n=grid.length;
+        int m=grid[0].length;
         boolean[][] vis=new boolean[n][m];
 
         for(int i=0;i<m;i++)
         {
-            if(board[0][i]==1 && !vis[0][i])
+            if(!vis[0][i] && grid[0][i]==1)
             {
-                dfs(board,0,i,vis);
+                dfs(0,i,vis,grid);
             }
-         if(board[n-1][i]==1 && !vis[n-1][i])
+
+            if(!vis[n-1][i] && grid[n-1][i]==1)
             {
-                dfs(board,n-1,i,vis);
+                dfs(n-1,i,vis,grid);
             }
         }
         for(int i=0;i<n;i++)
         {
-            if(board[i][0]==1 && !vis[i][0])
+            if(!vis[i][0] && grid[i][0]==1)
             {
-                dfs(board,i,0,vis);
+                dfs(i,0,vis,grid);
             }
-             if(board[i][m-1]==1 && !vis[i][m-1])
+
+            if(!vis[i][m-1] && grid[i][m-1]==1)
             {
-                dfs(board,i,m-1,vis);
+                dfs(i,m-1,vis,grid);
             }
         }
         int count=0;
@@ -54,10 +52,8 @@ class Solution {
         {
             for(int j=0;j<m;j++)
             {
-                if(board[i][j]==1 && !vis[i][j])
-                {
-                    count++;
-                }
+                if(grid[i][j]==1)
+                count++;
             }
         }
         return count;
