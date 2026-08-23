@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shristi482004/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shristi482004/dsa-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shristi482004/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0419-battleships-in-a-board](https://github.com/shristi482004/dsa-practice/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/shristi482004/dsa-practice/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/shristi482004/dsa-practice/tree/master/0542-01-matrix) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shristi482004/dsa-practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/shristi482004/dsa-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/shristi482004/dsa-practice/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/shristi482004/dsa-practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shristi482004/dsa-practice/tree/master/0733-flood-fill) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shristi482004/dsa-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shristi482004/dsa-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shristi482004/dsa-practice/tree/master/0210-course-schedule-ii) |
+| [0419-battleships-in-a-board](https://github.com/shristi482004/dsa-practice/tree/master/0419-battleships-in-a-board) |
 | [0547-number-of-provinces](https://github.com/shristi482004/dsa-practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shristi482004/dsa-practice/tree/master/0733-flood-fill) |
