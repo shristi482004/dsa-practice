@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shristi482004/dsa-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/shristi482004/dsa-practice/tree/master/2574-left-and-right-sum-differences) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/shristi482004/dsa-practice/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/shristi482004/dsa-practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shristi482004/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/shristi482004/dsa-practice/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shristi482004/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/shristi482004/dsa-practice/tree/master/1672-richest-customer-wealth) |
 | [1765-map-of-highest-peak](https://github.com/shristi482004/dsa-practice/tree/master/1765-map-of-highest-peak) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shristi482004/dsa-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/shristi482004/dsa-practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/shristi482004/dsa-practice/tree/master/2906-construct-product-matrix) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shristi482004/dsa-practice/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/shristi482004/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shristi482004/dsa-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1765-map-of-highest-peak](https://github.com/shristi482004/dsa-practice/tree/master/1765-map-of-highest-peak) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/shristi482004/dsa-practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/shristi482004/dsa-practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shristi482004/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shristi482004/dsa-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/shristi482004/dsa-practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [4015-weighted-sum-of-a-tree](https://github.com/shristi482004/dsa-practice/tree/master/4015-weighted-sum-of-a-tree) |
 ## Union-Find
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/shristi482004/dsa-practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shristi482004/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shristi482004/dsa-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/shristi482004/dsa-practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
