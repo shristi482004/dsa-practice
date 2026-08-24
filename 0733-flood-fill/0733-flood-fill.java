@@ -1,42 +1,32 @@
 class Solution {
-    public void dfs(int[][] image, int sr, int sc, int color,int init,boolean[][]vis) {
+    public void dfs(int row,int col,int initcolor,int color,int[][] image, boolean[][] vis) {
 
-        image[sr][sc]=color;
-        vis[sr][sc]=true;
+        image[row][col]=color;
         int n=image.length;
         int m=image[0].length;
         int[] delro={-1,1,0,0};
         int[] delco={0,0,1,-1};
+
         for(int i=0;i<4;i++)
         {
-            int r=sr+delro[i];
-            int c=sc+delco[i];
-
+            int r=row+delro[i];
+            int c=col+delco[i];
             if(r>=0 && r<n && c>=0 && c<m
-            && image[r][c]==init && !vis[r][c])
+            && image[r][c]==initcolor && image[r][c]!=color)
             {
-                dfs(image,r,c,color,init,vis);
+                dfs(r,c,initcolor,color,image,vis);
             }
         }
-    
-
         
     }
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int init=image[sr][sc];
+        int initcol=image[sr][sc];
         int n=image.length;
         int m=image[0].length;
-        int[][] img=new int[n][m];
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                img[i][j]=image[i][j];
-            }
-        }
         boolean[][] vis=new boolean[n][m];
-        dfs(image,sr,sc,color,init,vis);
+
+        dfs(sr,sc,initcol,color,image,vis);
+
         return image;
-        
     }
 }
