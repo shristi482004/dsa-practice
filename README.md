@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/shristi482004/dsa-practice/tree/master/1765-map-of-highest-peak) |
 | [1929-concatenation-of-array](https://github.com/shristi482004/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/shristi482004/dsa-practice/tree/master/2079-watering-plants) |
+| [2105-watering-plants-ii](https://github.com/shristi482004/dsa-practice/tree/master/2105-watering-plants-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shristi482004/dsa-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/shristi482004/dsa-practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shristi482004/dsa-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/shristi482004/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/shristi482004/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/shristi482004/dsa-practice/tree/master/2079-watering-plants) |
+| [2105-watering-plants-ii](https://github.com/shristi482004/dsa-practice/tree/master/2105-watering-plants-ii) |
 | [3701-compute-alternating-sum](https://github.com/shristi482004/dsa-practice/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2105-watering-plants-ii](https://github.com/shristi482004/dsa-practice/tree/master/2105-watering-plants-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shristi482004/dsa-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/shristi482004/dsa-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
