@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/shristi482004/dsa-practice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/shristi482004/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0633-sum-of-square-numbers) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shristi482004/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/shristi482004/dsa-practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
