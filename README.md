@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shristi482004/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shristi482004/dsa-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shristi482004/dsa-practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/shristi482004/dsa-practice/tree/master/0056-merge-intervals) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shristi482004/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shristi482004/dsa-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shristi482004/dsa-practice/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shristi482004/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shristi482004/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shristi482004/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/shristi482004/dsa-practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/shristi482004/dsa-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
