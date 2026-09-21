@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shristi482004/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shristi482004/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shristi482004/dsa-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shristi482004/dsa-practice/tree/master/0018-4sum) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shristi482004/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/shristi482004/dsa-practice/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/shristi482004/dsa-practice/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shristi482004/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shristi482004/dsa-practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0887-super-egg-drop](https://github.com/shristi482004/dsa-practice/tree/master/0887-super-egg-drop) |
