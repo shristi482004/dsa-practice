@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shristi482004/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shristi482004/dsa-practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shristi482004/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/shristi482004/dsa-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shristi482004/dsa-practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/shristi482004/dsa-practice/tree/master/0056-merge-intervals) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shristi482004/dsa-practice/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/shristi482004/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/shristi482004/dsa-practice/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/shristi482004/dsa-practice/tree/master/0087-scramble-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/shristi482004/dsa-practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -471,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4015-weighted-sum-of-a-tree](https://github.com/shristi482004/dsa-practice/tree/master/4015-weighted-sum-of-a-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shristi482004/dsa-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
