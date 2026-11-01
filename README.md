@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shristi482004/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shristi482004/dsa-practice/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shristi482004/dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3275-k-th-nearest-obstacle-queries](https://github.com/shristi482004/dsa-practice/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/shristi482004/dsa-practice/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3467-transform-array-by-parity](https://github.com/shristi482004/dsa-practice/tree/master/3467-transform-array-by-parity) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shristi482004/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/shristi482004/dsa-practice/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3275-k-th-nearest-obstacle-queries](https://github.com/shristi482004/dsa-practice/tree/master/3275-k-th-nearest-obstacle-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
