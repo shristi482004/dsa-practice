@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shristi482004/dsa-practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/shristi482004/dsa-practice/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/shristi482004/dsa-practice/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/shristi482004/dsa-practice/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/shristi482004/dsa-practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shristi482004/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shristi482004/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shristi482004/dsa-practice/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/shristi482004/dsa-practice/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/shristi482004/dsa-practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shristi482004/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0633-sum-of-square-numbers) |
