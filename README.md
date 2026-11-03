@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shristi482004/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/shristi482004/dsa-practice/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/shristi482004/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/shristi482004/dsa-practice/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shristi482004/dsa-practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/shristi482004/dsa-practice/tree/master/0733-flood-fill) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shristi482004/dsa-practice/tree/master/0148-sort-list) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/shristi482004/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/shristi482004/dsa-practice/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shristi482004/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/shristi482004/dsa-practice/tree/master/0148-sort-list) |
 | [0633-sum-of-square-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/shristi482004/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shristi482004/dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shristi482004/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/shristi482004/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shristi482004/dsa-practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0887-super-egg-drop](https://github.com/shristi482004/dsa-practice/tree/master/0887-super-egg-drop) |
 ## Enumeration
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/shristi482004/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/shristi482004/dsa-practice/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shristi482004/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/shristi482004/dsa-practice/tree/master/3275-k-th-nearest-obstacle-queries) |
@@ -361,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/shristi482004/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shristi482004/dsa-practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shristi482004/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Rolling Hash
