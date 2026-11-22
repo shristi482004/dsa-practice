@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shristi482004/dsa-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shristi482004/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shristi482004/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/shristi482004/dsa-practice/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/shristi482004/dsa-practice/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/shristi482004/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/shristi482004/dsa-practice/tree/master/0066-plus-one) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shristi482004/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shristi482004/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/shristi482004/dsa-practice/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/shristi482004/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/shristi482004/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shristi482004/dsa-practice/tree/master/0718-maximum-length-of-repeated-subarray) |
