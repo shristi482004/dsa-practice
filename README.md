@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shristi482004/dsa-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shristi482004/dsa-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shristi482004/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/shristi482004/dsa-practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shristi482004/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shristi482004/dsa-practice/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/shristi482004/dsa-practice/tree/master/0056-merge-intervals) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shristi482004/dsa-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shristi482004/dsa-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shristi482004/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/shristi482004/dsa-practice/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shristi482004/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shristi482004/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/shristi482004/dsa-practice/tree/master/0141-linked-list-cycle) |
